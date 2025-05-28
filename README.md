@@ -1,7 +1,7 @@
-# tic_tac_toe
+🎮 Tic Tac Toe Game — Flask Web App
 A simple web-based Tic Tac Toe game built using Flask, HTML, CSS, and JavaScript for two players to play turn by turn. It features real-time win/draw detection and a reset option with Jenkins integration for automated builds.
 
-> 🎮 Tic Tac Toe Game — Flask Web App
+> tic_tac_toe
 
 📌 Project Description:
 This is a simple web-based Tic Tac Toe game built using Python (Flask framework), HTML, CSS, and JavaScript. It is a classic two-player game (Player X vs Player O) where users take turns clicking cells on a 3x3 grid. The game dynamically updates and declares a winner or draw, with an option to reset and play again.
